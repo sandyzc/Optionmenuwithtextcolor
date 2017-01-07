@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Option menu with text color</string>
+    <string name="red">red</string>
+    <string name="blue">blue</string>
+    <string name="green">green</string>
+    <string name="hello_change_my_color">Hello change my color</string>
+
+</resources>
